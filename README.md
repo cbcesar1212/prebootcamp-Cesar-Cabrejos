@@ -13,3 +13,16 @@ Este repositorio contiene una pequeña aplicación web en la que el usuario pued
 - `index.html`: estructura principal del sitio
 - `app.js`: lógica JavaScript para el saludo
 - `README.md`: información del proyecto
+
+## Preguntas del Formulario
+- ¿Qué rol tiene el Product Owner?
+
+Es el responsable de maximizar el valor del producto, gestionando el backlog y priorizando las tareas según las necesidades del cliente y el negocio.
+
+- ¿Para qué sirve el Daily Scrum?
+
+Sirve para que el equipo sincronice su trabajo diario, comparta avances, identifique obstáculos y planifique el trabajo hasta la próxima reunión.
+
+- ¿Qué es un Sprint?
+
+Sirve para que el equipo sincronice su trabajo diario, comparta avances, identifique obstáculos y planifique el trabajo hasta la próxima reunión.
